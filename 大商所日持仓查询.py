@@ -104,7 +104,7 @@ if __name__ == "__main__":
 		[date, company, "L2009"],
 		[date, company, "L2009"],
 		
-		# 还需要查询其他大商所的，自己再添加即可
+		# 若还需要查询其他大商所的，自己再添加即可
 		# [date, company, "L2009"],
 		# [date, company, "L2009"],
 		# [date, company, "L2009"],
