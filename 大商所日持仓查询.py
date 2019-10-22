@@ -85,7 +85,7 @@ def query(query_date: str, query_company: str, contract_id: str):
 		print("买持仓量：%s" % (query_d["buy"], ))
 		print("卖持仓量：%s" % (query_d["sell"], ))
 		print("-=-" * 10)
-	
+
 
 if __name__ == "__main__":
 	
